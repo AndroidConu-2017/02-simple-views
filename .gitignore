@@ -14,6 +14,10 @@ local.properties
 .idea/libraries
 captures
 
+# editor temp files
+*.swp
+*.tmp
+
 # OS X nonsense
 .DS_Store
 # Windoze nonsense
