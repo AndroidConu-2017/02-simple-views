@@ -15,5 +15,8 @@
     <string name="tryagainmsg">Try again!</string>
     <string name="title_activity_activity2">Activity2</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_weight_linear_layout">WeightLinearLayout</string>
+    <string name="explain">The only purpose for this code is to show the effect of using the android:layout_weight attribute in Linear Layouts.  See the xml in the layout file.</string>
+    <string name="btshowLL">another new activity</string>
 
 </resources>

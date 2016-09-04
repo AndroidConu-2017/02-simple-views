@@ -23,3 +23,6 @@ captures
 # Windoze nonsense
 Thumbs.db
 
+# eclipse files
+bin/
+gen/

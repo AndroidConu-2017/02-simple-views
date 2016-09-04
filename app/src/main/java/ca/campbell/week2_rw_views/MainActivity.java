@@ -84,5 +84,12 @@ public class MainActivity extends Activity {
 				Activity2.class);
 		startActivity(launchOtherScreen);
 	} // showActivity()
+
+	public void showActivityLL(View view) {
+		Log.d(TAG, "showActivityLL(): fire intent");
+		Intent launchOtherActivity = new Intent(getApplicationContext(),
+				WeightLinearLayout.class);
+		startActivity(launchOtherActivity);
+	} // showActivity()
 }
 
