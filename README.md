@@ -1,5 +1,4 @@
-# week02-simple-views
-# week02-rw-views
+# 02-simple-views
 
 Simple example of the use of ViewGroup LinearLayout 
 and some  View widgets
